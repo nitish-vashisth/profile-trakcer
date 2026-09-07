@@ -1,10 +1,6 @@
-Absolutely. Based on our full discussion, I would position this as **a Migration Compliance & Security Discovery Engine**, not simply a “privacy-law checker.”
-
-The key differentiator is:
 
 > **Customers don't need to know which regulations or security requirements apply to them. The tool determines the likely requirements from their business, geography, data, customers, contracts and security architecture, and then translates them into migration actions.**
 
-If you have the historical “past migration issues” analysis we discussed, sharing it would make the rule engine much more accurate because we can validate the rules against real blockers rather than designing them theoretically.
 
 # Migration Compliance & Security Discovery Engine — MVP Proposal
 
